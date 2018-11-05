@@ -1,0 +1,15 @@
+body{
+	align-content: center;
+	background-color: red;
+
+}
+td{
+	border-style: groove;
+	border-color: black;
+	border-width: thin;	
+}
+th{
+	border-style: groove;
+	border-color: black;
+	border-width: thin;	
+}
